@@ -1,9 +1,8 @@
-https://www.cooc.cloud/api/v1/client/subscribe?token=12f5a67f46c8d43901f326fde881b2d8
-https://speedup.club/api/v1/client/subscribe?token=46f7314a8a4ccbaf23548bf276bf60e6
-https://xueyejiasu.com/api/v1/client/subscribe?token=c8b74d4c25fc610cfc2f894d0cdf6202
-https://www.marst1.com/api/v1/client/subscribe?token=9f168d6158015e8a959b5de66b593ec6
-https://tcity8.top/api/v1/client/subscribe?token=b2001c70edb1a7bdaa022e8825e426a6
-https://azz.azzico.com/api/v1/client/subscribe?token=599fd4b56da7bd7f7f4f741347922468
-https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=81fe4c11cf188cf5c324fe124da7937b
-https://dashuai.us/api/v1/client/subscribe?token=fede6bf1fc246e93fafd22dd5ea4df08
-https://skycloud.lol/api/v1/client/subscribe?token=5f265c84445afc5672d4640ca3652e8e
+https://azi.azzico.cc/api/v1/client/subscribe?token=da5cafcf1e273ecdaf725454c2c4e4bd
+https://13x.one/api/v1/client/subscribe?token=9bd47ed99f7ab66fd8fcc037e67ccc4d
+https://tcity8.top/api/v1/client/subscribe?token=1d5bcf1a3f00971f96df14e321dc6f0e
+https://www.xfxssr.com/api/v1/client/subscribe?token=50065c98a083e2ed31e83c8f0e784db9
+https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=1118dd4c3261bd8699332567b2255a00
+https://xueyejiasu.com/api/v1/client/subscribe?token=d7bce83765fe0e856d48bc5b559b92dd
+https://speedup.club/api/v1/client/subscribe?token=0fcd007c53e65994faf573b4ec701d0c
+https://www.cooc.cloud/api/v1/client/subscribe?token=73670df75baa89e95559c52fc9065d41
