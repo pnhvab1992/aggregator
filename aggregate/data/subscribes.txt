@@ -1,3 +1,3 @@
-https://dashuai.us/api/v1/client/subscribe?token=f40584724da8762286f0a7906375e6a6
-https://xueyejiasu.com/api/v1/client/subscribe?token=78b697549a656de5a23f694ac315ef15
-https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=56f7125625e30a9cb6cecbd4eba646e3
+https://dashuai.us/api/v1/client/subscribe?token=c1ef4ebb2f5606146f9f7c8c49aaea1f
+https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=e51ef6d9722787011e69b0d38f4b26d3
+https://xueyejiasu.com/api/v1/client/subscribe?token=7f20698fc7388f883f005407bcf9224d
